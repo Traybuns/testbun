@@ -1,4 +1,4 @@
- CREATE TABLE STUDENTS(student_id INT,
+CREATE TABLE STUDENTS(student_id INT,
 student_name VARCHAR,
 gender VARCHAR,
 age INT,
